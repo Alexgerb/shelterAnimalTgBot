@@ -1,6 +1,6 @@
 ## Java Spring Boot Client for Telegram Bot 
 ## Telegram Bot for Animal Shelter
-## Authors: Alexander Herb, Mikhail Schechin, Vadim Charushnikov  
+## Authors: Alexander Gerb, Mikhail Schechin, Vadim Charushnikov  
 
 This project involves creating a Telegram bot that responds to common questions from people regarding what they need to know and understand in order to adopt an animal from a shelter.
 
